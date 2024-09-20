@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body{
+  padding-bottom: 20px;
+  background-color: white;
+}
+.hero-section {
+  background-image: url('../../public/images/slider.png');
+  
+  
+}
